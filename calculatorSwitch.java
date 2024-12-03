@@ -1,7 +1,6 @@
-package myJava;
-
+//Program to show the use of switch statement in terms of conditional branching.
 import javax.swing.*;
-public class calculatorSwitch1 {
+public class calculatorSwitch {
     public static void main(String args[]){
        String input1=JOptionPane.showInputDialog("Enter op1:");  // taking input1(string)
        int op1=java.lang.Integer.parseInt(input1);                       // parsing input1 to int op1

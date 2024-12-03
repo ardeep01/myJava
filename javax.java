@@ -1,4 +1,3 @@
-package myJava;
 import javax.swing.*;
   public class javax{
    public static void main(String[] args) {
